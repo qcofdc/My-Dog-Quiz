@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    font-family: Libre;
+}
+@font-face {
+    font-family: Libre;
+    src: url(./assets/fonts/LibreBaskerville-Regular.ttf);
+}
+body{
+    background: #FFF8DC;
+}
+.logoPic{
+    text-align: center;
+}
+h1{
+    color:#DC6B19;
+    margin: 10px;
+}
+h2{
+   color: #F7C566;
+   margin: 10px;
+   text-align: center; 
+   
+}
+.qblock{
+   position: relative;
+   left: 510px;
+}
+ul li {
+    padding: 25px;
+}
+ul{
+    list-style: none;
+    font-size: 20px;
+    
+}
+.btn ul{
+    list-style: none;
+}
+.btn ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    border: 1px solid #6C0345;
+    border-radius: 20px;
+    padding: 10px;
+    background: #6C0345;
+}
+.btn{
+    text-align: center;
+    position: relative;
+    right: 20px;
+    top: 10px;
+    
+
+}
